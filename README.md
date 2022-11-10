@@ -1,4 +1,4 @@
-# Hello there
+# Hello there!
 
 1. Hi, I’m @Klaterrr or Kuretaru or Ivan.
 1. I’m interested in **Neural Networks fundamental questions**.
