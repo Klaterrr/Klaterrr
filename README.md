@@ -3,7 +3,7 @@
 1. Hi, I’m @Klaterrr or Kuretaru or Ivan.
 1. I’m interested in **Neural Networks fundamental questions**.
 1. I’m looking to collaborate on TTS, NLP or VPT systems.
-1. How to reach me: [telegram](https://t.me/kuretaru) or [vk](https://vk.ru/kuretaru).
+1. How to reach me: [telegram](https://t.me/kuretaru) or [vk](https://vk.com/kuretaru).
 
 <!---
 Klaterrr/Klaterrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
