@@ -28,7 +28,3 @@ I'm always open to discussions, new ideas, and exciting collaborations. Feel fre
 
 Let's embark on some mind-bending adventures together! 🚀
 
-<!---
-Klaterrr/Klaterrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
