@@ -1,6 +1,6 @@
 # Hello, Universe! 👋
 
-I'm known as @Klaterrr, Kuretaru, Ivan, or Johan – pick your favorite! I'm an explorer of the digital realm, with a passion for pushing the boundaries of what's possible.
+I'm known as @Klaterrr, Kuretaru, Shanaecl, Ivan, or Johan – pick your favorite! I'm an explorer of the digital realm, with a passion for pushing the boundaries of what's possible.
 
 ## Areas of Fascination and Focus 🧠
 
